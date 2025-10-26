@@ -1,2 +1,63 @@
-# -
+
 უბრალოდ 😊
+
+ჩააგდე Html ფაილში
+
+
+
+
+
+
+
+
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>მადლობა!</title>
+  <style>
+    body {
+      margin:0;
+      padding:0;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      min-height:100vh;
+      background:#f0f4fb;
+      font-family:Arial, sans-serif;
+      color:#333;
+      text-align:center;
+    }
+    .container {
+      background:#fff;
+      border-radius:12px;
+      padding:24px;
+      box-shadow:0 4px 20px rgba(0,0,0,0.1);
+      max-width:90%;
+    }
+    img {
+      max-width:100%;
+      height:auto;
+      border-radius:8px;
+    }
+    h1 {
+      margin-top:16px;
+      font-size:2em;
+      color:#4a4a4a;
+    }
+    p {
+      font-size:1.2em;
+      margin-top:8px;
+      color:#666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://media1.tenor.com/m/vNxm3KMZHQwAAAAd/skate-leading-stars-kensei-maeshima.gif"/>
+    <h1>მადლობა მარიტა</h1>
+  <!--  <p></p>-->
+  </div>
+</body>
+</html>
