@@ -94,12 +94,15 @@
 <body>
     <div class="container">
         <img src="https://media1.tenor.com/m/vNxm3KMZHQwAAAAd/skate-leading-stars-kensei-maeshima.gif"
-            alt="მადლობა გიფი" />
+            />
         <h1>მადლობა, მარიტა 💖</h1>
-        <p>შენი სიკეთე ძალიან ბევრს ნიშნავს ჩემთვის 🌸</p>
+        <p>შენი სიკეთე ბევრს ნიშნავს ჩემთვის 🌸</p>
 
         <!--პ.ს არ ვიცი შენი დამოკიდებულება ანიმესმიმართ,უბრალოდ მადლობა😉-->
     </div>
+    <p style="font-size:0.85em; color:#aaa; margin-top:15px;">
+        <!-- <a href="https://linktr.ee/George_Dzasokhov?utm_source=linktree_profile_share&ltsid=9cee276f-558b-43c1-a6be-c47423c83534" target="_blank" style="color:#ff69b4; text-decoration:none;"></a>-->
+    </p>
 </body>
 
 </html>
